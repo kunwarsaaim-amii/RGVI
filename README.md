@@ -4,7 +4,7 @@ This is the official PyTorch implementation of our paper:
 
 > **Elevating Flow-Guided Video Inpainting with Reference Generation**, *AAAI 2025*\
 > Suhwan Cho, Seoung Wug Oh, Sangyoun Lee, Joon-Young Lee\
-> Link: [[arXiv]](https://arxiv.org/abs/2412.08975)
+> Link: [[AAAI]](https://ojs.aaai.org/index.php/AAAI/article/download/32255/34410) [[arXiv]](https://arxiv.org/abs/2412.08975)
 
 <img src="https://github.com/user-attachments/assets/04bd58ff-330e-4e6e-8b5f-402d0afade6d" width=800>
 
